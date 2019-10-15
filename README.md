@@ -3,7 +3,7 @@
 
 ****************************************************************
 
-# This is a small description: how to use this system  
+                          This is a small description: how to use this system  
 
 1. You need to define connection to your data base.
 In the file - application.property, you need to set userName, password , Schema . 
